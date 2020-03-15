@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestQuestion</string>
+
+    <string name="title">Title Post</string>
+    <string name="body">Body Post</string>
+
+
+</resources>
